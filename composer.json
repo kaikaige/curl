@@ -1,0 +1,21 @@
+{
+    "name": "kaikaige/yii2-curl",
+    "description": "rest curl",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","curl","kaikaige"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaikaige",
+            "email": "396929174@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kaikaige\\curl\\": ""
+        }
+    }
+}
